@@ -1,0 +1,151 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "members": [
+    {
+      "id": "1071399c-9353-5ad9-0de4-0cf40e6f71c2",
+      "name": "csk,ipl",
+      "email": "dummy@gmail.com",
+      "address": "kdjfkdkd",
+      "organization": "kdjfkdkkdf",
+      "designation": "kdfkdjfk",
+      "contact": "3493849389",
+      "blocked": true
+    },
+    {
+      "id": "93e26981-5109-53a5-e5ce-ff07f39381c3",
+      "name": "khansab",
+      "email": "dummy@gmail.com",
+      "address": "address",
+      "organization": "organization",
+      "designation": "designation",
+      "contact": "3949348394",
+      "blocked": false
+    },
+    {
+      "id": "f638f636-3743-6957-20bd-075232dc7087",
+      "name": "dfdfdf",
+      "email": "dfd@gmail.com",
+      "address": "fkdfkds",
+      "organization": "dkfjkdjs",
+      "designation": "dkjfkd",
+      "contact": "343489384",
+      "blocked": true
+    },
+    {
+      "id": "1f31543c-7293-4b64-6137-d6b1f7f1c5d9",
+      "name": "dkjkdj",
+      "email": "dkfj@gmail.com",
+      "address": "dkfjkdfjk",
+      "organization": "dkjfkd",
+      "designation": "kdjkfj",
+      "contact": "03490394889",
+      "blocked": true
+    },
+    {
+      "id": "7aea1538-b982-296e-2f02-5614a3af3901",
+      "name": "new",
+      "email": "dkfjkd",
+      "address": "dkjfkd",
+      "organization": "dkjfk",
+      "designation": "dkfj",
+      "contact": "983948394",
+      "blocked": false
+    },
+    {
+      "id": "6fe34359-154d-f4c9-0b3a-25922e4765ec",
+      "name": "dkjk",
+      "email": "ddkfjk@gmail.com",
+      "address": "dkjfkd",
+      "organization": "dkjdfk",
+      "designation": "kdjfk",
+      "contact": "3948834",
+      "blocked": false
+    },
+    {
+      "id": "301314c8-6b0e-0858-284b-08393dba2cc1",
+      "name": "Helloworld",
+      "email": "dkjk@gmail.com",
+      "address": "edkjfkd",
+      "organization": "dkjfk",
+      "designation": "dkfk",
+      "contact": "9493493",
+      "blocked": false
+    },
+    {
+      "id": "b74130cd-2bf3-f16e-b47d-ab791750e233",
+      "name": "dkdfffffff",
+      "email": "dkjkd@gmail.com",
+      "address": "ekdjfkk",
+      "organization": "kdjfkd",
+      "designation": "dkjfk",
+      "contact": "93893849",
+      "blocked": false
+    },
+    {
+      "id": "043053ff-a47f-2c54-9785-fae58df32946",
+      "name": "Admin",
+      "email": "ad@gmail.com",
+      "address": "dkfkj",
+      "organization": "kdksk",
+      "designation": "dkjdk",
+      "contact": "9384934",
+      "blocked": false
+    },
+    {
+      "id": "b8187e20-6280-540e-f396-e94ffe0d9646",
+      "name": "dfdf",
+      "email": "dfsfd",
+      "address": "dsfdfdsfdf",
+      "organization": "dfd",
+      "designation": "sf",
+      "contact": "343",
+      "blocked": false
+    },
+    {
+      "id": "27f80895-df73-f5c6-7421-f4b49e17cd21",
+      "name": "kdjfkj",
+      "email": "kdjfk",
+      "address": "kjdkfk",
+      "organization": "kdk",
+      "designation": "kjkfk",
+      "contact": "348",
+      "blocked": false
+    },
+    {
+      "id": "c6169a46-795e-3d7a-4808-9f2523fbcc4d",
+      "name": "dkjkjk",
+      "email": "kdkfk",
+      "address": "kdkjk",
+      "organization": "djkjk",
+      "designation": "djkdj",
+      "contact": "39348",
+      "blocked": false
+    },
+    {
+      "id": "b34db03a-599b-645a-cd15-3a60af7a7332",
+      "name": "Final",
+      "email": "dkjfk@gmail.com",
+      "address": "dkjdkj",
+      "organization": "djkfk",
+      "designation": "kdjkj",
+      "contact": "93893249",
+      "blocked": true
+    }
+  ]
+}
